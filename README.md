@@ -1,1 +1,1 @@
-# CardChangeDates 
+# CardChangeDates [![Build status](https://ci.appveyor.com/api/projects/status/33rsrwkaf8ds3fme/branch/main?svg=true)](https://ci.appveyor.com/project/elenabulavina90/cardchangedates/branch/main)
